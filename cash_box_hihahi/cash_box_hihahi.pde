@@ -20,3 +20,5 @@ void draw(){
 float beregnMoms(int belob){
   return belob*1.25;
 }
+
+//Du har ikke lavet det færdigt
