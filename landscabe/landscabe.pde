@@ -53,3 +53,5 @@ circle(202,540,10);
 circle(227,540,10);
 circle(253,540,10);
 }
+
+//bare brug en funktion bro
